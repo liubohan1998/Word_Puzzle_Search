@@ -1,0 +1,12 @@
+5 20
+A B C D W X Z G O D T A C A B C D W X Z
+A B C D W X Z U Y U I P A J N K U P W O
+A B C D W X Z P P E E H S A B C D W X Z
+J E P O A D J S S H E P F L O C D J S W
+F L O W J Y W O L Y U A T D O I O R V B
+
+cat
+dog
+catdog
+wolf
+sheep
